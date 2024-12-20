@@ -1,2 +1,2 @@
 # ThirdSession
-This is my first class
+This is my third class
